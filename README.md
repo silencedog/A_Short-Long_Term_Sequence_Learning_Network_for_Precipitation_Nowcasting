@@ -1,1 +1,1 @@
-# A_Short-Long_Term_Sequence_Learning_Network_for_Precipitation_Nowcasting
+# A Short-Long Term Sequence Learning Network for Precipitation Nowcasting
